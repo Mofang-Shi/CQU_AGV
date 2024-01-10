@@ -10,6 +10,6 @@ Shi Mofang
 Chongqing University
 </p>
 
-## Overview
+## 说明
 
-本仓库为“AGV小车建图与路径规划”的源代码，
+本仓库为“AGV小车建图与路径规划”的源代码。
